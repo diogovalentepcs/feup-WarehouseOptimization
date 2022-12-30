@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "gca-pbs-optimization",
+  "private_key_id": "fbe1b0c03c5379c5fb445728353230e964fa5cd6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCiHfqOK7pg35FB\nIt6xnZd1aKqAaebURjBcAIMvr99r+fQJQkKqwVxgB/IkRhRERwqW/ZA8nCOiT8hl\nt00Lv4eLu5vA8G8Y/Gq5tOGT3EgubjODmFcNFwYi5sobAxTaWvS/GXml7BzDWw5/\nscyV4D8JvSa+vFaZdXXtC72uMUY3fSipgIDGqnuMRNjBx/MF9Ny9HzInBL6IK8lN\nxlcjgcOXq74/2k5QDMRxCtQ+aeFZ2VqZ47PYk92qScGUiVSKYVXD/L6ANBmvUhTy\nG485b4hgsYvtE4cOaV42nZHZoeNuwebhnhVgoSeu7/8u+OFSYm+35m4JCiyJjQl3\nG+E8oV1DAgMBAAECggEAOw9n3c6BblRUYyH0dkmeyXexkenC3beaW5IWONO+NeSQ\nKqVYi0O5RwTuCpf7PyqQaZSDrQkHFFUzgRbnuy1yEI5u/jm5h6VBrlj+yzK3my6r\nlrfzksG+Cw4AOBoFyUzUmCAMSM29ZtAv9oZMLZfN71rZGCid9fcsWIjr999coM7j\nnmeo7aOHjA/c2yzy9l0LsFHb8OA9mJJxVtxeJURGgGQTmeXbgZqWqEsOLsc5cRKl\n0fHQAuQwQuICvgb3kSdM6CiyeBfm8TKmP2neetjsJ15GZweTCS9+cbeUX99+nk0i\n1VJkfwgzeQ2ffnC6jkyWZ2zQdeAx0qs3FvMyA/9m8QKBgQDbcfh3KPntyHezj+QV\nRBE39qGTsMe2a5PGXcE7+2a9EaEhWRNlmNR6cd2Enyccr5chW2d0qoPsP+ijZJiG\nUcN3pskHqcmeZT8wrAobNHXxD/ZKgl2RUcBNA9c5SIBDdZSLZgKUWfqD/g2ohRpR\ndDampwO08WcqpdQ7eBssYYfdEQKBgQC9H06HxW6pztoErduhSoHW+SMM5h+gSM/l\noVvohkp+26nYJdMRs7qP4sxVYxq6lTs3vfHzgVRVYPDarejB6SI+jl6Jo9cdNJ90\nxD8vVeLrNXMJu5QahFi9YUQxRo3Km3ur5+OwO05Uof7GBkmqvjN0fQid52f+wTY4\nc1jlzRClEwKBgQDNkpzidB595LhOHFPcoCFJPd/rjUXp3ClZQOcOm9qI8AT0So/j\nMyKJejW8UaPAObXoZ8oo/rwLC2uR9WD1I49rfXEBnsrjeZGStPfauHBsXTmqXyns\nQptVCm4KmaKej32SgQOVmh0WnV6KKfaXq7iusfLFBQhSaXrCIyfBkbRHIQKBgF9m\nQnPkmN0ZlgqUNN0Yu4RYamDgWIW/FPgNvFIAI+X4IqYA9obQdcSNMGvGMT57dsK4\nkys1SvhCjVySK35dfsO1h2TA/Askd2csc38KQQxLCvuW3q+9oRHu1bpRj8brRahC\nsi08zVeN2/nCRDjX9xbE16rnhyMQDazOKsLI/aN3AoGBALD4+vPJF1aBbN3un4RK\nUc4puAo99M5B7/AFAXVmyBuvr8xcYgzj/zEN25W3kwij7G6YnjC2TqyNNK4tyNBA\nuf089uwc8UpV2J/RtAoYRfd9jKr+P9Rqg8j66PXBJguKMeL8rq6ypNNg6ZVr/tfN\nOtguGMUDt0xauE8DaIAMwURM\n-----END PRIVATE KEY-----\n",
+  "client_email": "gdrive-api@gca-pbs-optimization.iam.gserviceaccount.com",
+  "client_id": "105841382210560727851",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gdrive-api%40gca-pbs-optimization.iam.gserviceaccount.com"
+}
